@@ -1,0 +1,12 @@
+---
+artifact: ${project.groupId}:${project.artifactId}:${project.version}
+name: Workaroundtest
+#description: Do something useful.
+metadata:
+  keywords:
+    - "azure"
+    - "http"
+    - "workaroundtest"
+  categories:
+    - "cloud"
+  status: "preview"
